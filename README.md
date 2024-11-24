@@ -5,7 +5,7 @@
 </p>
 
 ## Bot Features :
-- Auto Run 24 Hours
+- Auto Running 24 Hours
 - Single Account
 - Available for Termux and VPS
 - Auto Claim Faucet
