@@ -10,7 +10,6 @@ echo -e "\e[1;34m
   █████████      ███████    █████   █████
                 
 ==============================================
-    Node              : BlockMesh Network
     Telegram Channel  : @schoolofairdrop              
     Telegram Group    : @soadiscussion         
 ==============================================\e[0m"
@@ -27,7 +26,7 @@ if [[ "$choice" != "1" && "$choice" != "2" ]]; then
 fi
 
 # Mengunduh dan menjalankan skrip asclogo.sh
-curl -s https://data.zamzasalim.xyz/file/uploads/asclogo.sh | bash
+curl -s https://raw.githubusercontent.com/Iyas-SOA/Files/refs/heads/main/Logo%20SOA.sh | bash
 sleep 5
 
 # Fungsi untuk cek dan install alat yang diperlukan
