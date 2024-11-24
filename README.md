@@ -5,9 +5,9 @@
 </p>
 
 ## Bot Features :
-- Auto Running 24 Hours
+- Auto Run 24 Hours
 - Single Account
-- No Proxy
+- Available for Termux and VPS
 - Auto Claim Faucet
 - Auto Staking
 
