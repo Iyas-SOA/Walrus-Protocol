@@ -19,8 +19,8 @@
 - Connect Sui Wallet
 - Done
 
-## Running Node :
-- Install Node :
+## Running BOT :
+- Install BOT :
 ```
 git clone https://github.com/Iyas-SOA/Walrus-Protocol.git
 ```
