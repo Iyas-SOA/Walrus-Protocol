@@ -1,4 +1,4 @@
-# BlockMesh Network
+# Walrus Protocol
 
 <p align="center">
   <img height="300" height="auto" src="https://github.com/SchoolOfAirdrop/Files/blob/main/photo_2024-11-24_03-14-44.jpg">
@@ -25,9 +25,14 @@
 git clone https://github.com/Iyas-SOA/Walrus-Protocol.git
 ```
 ```
-./walrush-protocol-SOA.sh
+cd Walrus-Protocol
 ```
-
+```
+bash walrus-protocol.sh
+```
+- Choose what you're running with
+- Submit Private Key
+  
 ## Support Me :
 - Telegram : https://t.me/schoolofairdrop
 - EVM : `0x4B67284e5d2BE6F98c0a773260e3FA046dd23B22`
