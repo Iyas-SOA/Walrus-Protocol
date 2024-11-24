@@ -5,7 +5,6 @@
 </p>
 
 ## Bot Features :
-- Auto Running 24 Hours
 - Single Account
 - Available for Termux and VPS
 - Auto Claim Faucet
@@ -19,7 +18,7 @@
 - Connect Sui Wallet
 - Done
 
-## Running BOT :
+## Setup & Configure BOT :
 - Install BOT :
 ```
 git clone https://github.com/Iyas-SOA/Walrus-Protocol.git
